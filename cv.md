@@ -1,5 +1,7 @@
 * rs.school cv
 
+photo
+
 **Maxim Samokhvalov**
 
 +7-991-108-36-06
@@ -14,8 +16,8 @@ I think that the Front-end developing will help me realize my potential."
 Social media
 
 github_logo samaxvaloff
+discord_logo Maxim Samokhvalov (@samaxvaloff) Sparx#9043
 linkedin_logo https://www.linkedin.com/in/maxim-samokhvalov-0b980a20a/
-telegram_logo  @sa_max_valoff
 
 Skills
 
@@ -29,13 +31,47 @@ Education
 
 - Traditional training will be completed in 2023, MPEI (IT specialist, bachelor) 
 
-Cources 
+Courses 
 
 - Learn.javascript.ru (since 2021)
 - Result school, junior frontend dev (since 2022 Feb)
 - Stepik, "Python для начинающих", 2021.
 - Stepik, HTML, CSS.
-- Full cources on Youtube about Frontend(RS School, Vladilen Minin, etc.)
+- Full courses on Youtube about Frontend(RS School, Vladilen Minin, etc.)
+
+My code from codewars on JS
+
+Task: Detect panagram
+
+My answer:
+
+function isPangram(string) {
+    let massOfWords = string.toLowerCase().split('');
+    console.log(massOfWords);
+    let controlMass = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
+    for (let i = 0; i < massOfWords.length; i += 1) {
+        for (let j = 0; j < controlMass.length; j += 1) {
+            if (massOfWords[i] === controlMass[j]) {
+                console.log(`сравниваем ${massOfWords[i]} с ${controlMass[j]} и удаляем ${controlMass[j]}.`)
+                controlMass.splice(j, 1)
+                console.log(`остаётся ${controlMass}`)
+            }
+        }
+    }
+    let answer = controlMass.length === 0 ? true : false;
+    console.log(controlMass)
+    return answer
+}
+
+Experience
+
+My personal page: maxsparx.ru
+Client website: alfa-sushi.ru, mycheeky.ru.
+University pet-projects (private github)
+This CV
+
+English level - B1 (Skills from School, duolingo and another courses)
+
 
 
 
