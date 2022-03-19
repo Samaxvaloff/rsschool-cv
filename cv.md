@@ -1,37 +1,39 @@
-* rs.school cv
+# rs.school cv
 
 photo
 
 **Maxim Samokhvalov**
 
-+7-991-108-36-06
-mpsamoxvalov@gmail.com
-Pushkino, Russia
+* +7-991-108-36-06
+* mpsamoxvalov@gmail.com
+* Pushkino, Russia
 
-About me
+## Social media
 
-"I like to create cool interactive websites that will bring profit to the business. Also, I like to learn something new from the IT world and implement it immediately. 
-I think that the Front-end developing will help me realize my potential."
+* github_logo [samaxvaloff](https://github.com/Samaxvaloff)
+* discord_logo Maxim Samokhvalov (@samaxvaloff) Sparx#9043
+* linkedin_logo https://www.linkedin.com/in/maxim-samokhvalov-0b980a20a/
 
-Social media
+====
 
-github_logo samaxvaloff
-discord_logo Maxim Samokhvalov (@samaxvaloff) Sparx#9043
-linkedin_logo https://www.linkedin.com/in/maxim-samokhvalov-0b980a20a/
+## About me
 
-Skills
+> I like to create cool interactive websites that will bring profit to the business. Also, I like to learn something new from the IT world and implement it immediately. 
+>I think that the Front-end developing will help me realize my potential.
 
-Javascript(base), Git, Github, Python(base).
-Emmet, Sass, Bootstrap, Wordpress.
-VS code, WebStorm, PyCharm.
-Figma, Photoshop.
-MS SQL.
+## Skills
 
-Education
+1. Javascript(base), Git, Github, Python(base).
+2. Emmet, Sass, Bootstrap, Wordpress.
+3. VS code, WebStorm, PyCharm.
+4. Figma, Photoshop.
+5. MS SQL.
+
+## Education
 
 - Traditional training will be completed in 2023, MPEI (IT specialist, bachelor) 
 
-Courses 
+## Courses 
 
 - Learn.javascript.ru (since 2021)
 - Result school, junior frontend dev (since 2022 Feb)
@@ -39,12 +41,14 @@ Courses
 - Stepik, HTML, CSS.
 - Full courses on Youtube about Frontend(RS School, Vladilen Minin, etc.)
 
-My code from codewars on JS
+## My code from codewars on JS
+
 
 Task: Detect panagram
 
 My answer:
 
+```
 function isPangram(string) {
     let massOfWords = string.toLowerCase().split('');
     console.log(massOfWords);
@@ -62,15 +66,18 @@ function isPangram(string) {
     console.log(controlMass)
     return answer
 }
+```
 
-Experience
+## Experience
 
 My personal page: maxsparx.ru
 Client website: alfa-sushi.ru, mycheeky.ru.
 University pet-projects (private github)
 This CV
 
-English level - B1 (Skills from School, duolingo and another courses)
+## English level
+
+B1 (Skills from School, duolingo and another courses)
 
 
 
