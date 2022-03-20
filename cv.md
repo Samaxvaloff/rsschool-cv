@@ -4,9 +4,9 @@
 
 **Maxim Samokhvalov**
 
-* +7-991-108-36-06
-* mpsamoxvalov@gmail.com
-* Pushkino, Russia
++7-991-108-36-06  
+mpsamoxvalov@gmail.com 
+Pushkino, Russia
 
 ## Social media links
 
@@ -29,7 +29,7 @@
 
 ## Education
 
-- Traditional training will be completed in 2023, MPEI (IT specialist, bachelor) 
+Traditional training will be completed in 2023, MPEI (IT specialist, bachelor) 
 
 ## Courses 
 
