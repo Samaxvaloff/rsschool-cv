@@ -1,6 +1,6 @@
 # rs.school cv
 
-photo
+![](https://avatars.githubusercontent.com/u/70916695?s=400&u=026805697114a87fee19162141511f423dcbac1d&v=4)
 
 **Maxim Samokhvalov**
 
@@ -8,11 +8,11 @@ photo
 * mpsamoxvalov@gmail.com
 * Pushkino, Russia
 
-## Social media
+## Social media links
 
-*\ ![Мой гитхаб](https://github.com/Samaxvaloff) - Samaxvaloff
-*\ ![discord](https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1647692756~hmac=4d212ba1e800acb2c3a91fe4156783a4) Maxim Samokhvalov (@samaxvaloff) Sparx#9043
-*\ ![linkedin](https://cdn-icons-png.flaticon.com/512/61/61109.png) https://www.linkedin.com/in/maxim-samokhvalov-0b980a20a/
+* [Github](https://github.com/Samaxvaloff)
+* [Discord](https://discordapp.com/users/669112064605945886/)
+* [Linkedin](https://www.linkedin.com/in/maxim-samokhvalov-0b980a20a/)
 
 ## About me
 
