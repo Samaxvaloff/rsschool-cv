@@ -5,7 +5,7 @@
 **Maxim Samokhvalov**
 
 +7-991-108-36-06  
-mpsamoxvalov@gmail.com 
+mpsamoxvalov@gmail.com  
 Pushkino, Russia
 
 ## Social media links
@@ -68,10 +68,10 @@ function isPangram(string) {
 
 ## Experience
 
-My personal page: maxsparx.ru  
-Client website: alfa-sushi.ru, mycheeky.ru.  
-University pet-projects (private github)  
-This CV
+- My personal page: maxsparx.ru  
+- Client website: alfa-sushi.ru, mycheeky.ru.  
+- University pet-projects (private github)  
+- This CV
 
 ## English level
 
