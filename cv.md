@@ -10,11 +10,9 @@ photo
 
 ## Social media
 
-* github_logo [samaxvaloff](https://github.com/Samaxvaloff)
-* discord_logo Maxim Samokhvalov (@samaxvaloff) Sparx#9043
-* linkedin_logo https://www.linkedin.com/in/maxim-samokhvalov-0b980a20a/
-
-====
+*\ ![Мой гитхаб](https://github.com/Samaxvaloff) - Samaxvaloff
+*\ ![discord](https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1647692756~hmac=4d212ba1e800acb2c3a91fe4156783a4) Maxim Samokhvalov (@samaxvaloff) Sparx#9043
+*\ ![linkedin](https://cdn-icons-png.flaticon.com/512/61/61109.png) https://www.linkedin.com/in/maxim-samokhvalov-0b980a20a/
 
 ## About me
 
@@ -44,7 +42,7 @@ photo
 ## My code from codewars on JS
 
 
-Task: Detect panagram
+Task: "Detect panagram
 
 My answer:
 
@@ -70,9 +68,9 @@ function isPangram(string) {
 
 ## Experience
 
-My personal page: maxsparx.ru
-Client website: alfa-sushi.ru, mycheeky.ru.
-University pet-projects (private github)
+My personal page: maxsparx.ru  
+Client website: alfa-sushi.ru, mycheeky.ru.  
+University pet-projects (private github)  
 This CV
 
 ## English level
