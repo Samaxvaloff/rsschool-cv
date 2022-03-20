@@ -1,8 +1,6 @@
-# rs.school cv
+# Maxim Samokhvalov
 
 ![](https://avatars.githubusercontent.com/u/70916695?s=400&u=026805697114a87fee19162141511f423dcbac1d&v=4)
-
-**Maxim Samokhvalov**
 
 +7-991-108-36-06  
 mpsamoxvalov@gmail.com  
