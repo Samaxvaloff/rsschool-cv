@@ -1,9 +1,10 @@
 body{
     padding: 0;
     margin: 0;
-    font-family:'Poiret One','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Oswald','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: 000;
     font-size: 18px;
+    background-color: aliceblue;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -17,10 +18,94 @@ ul, li{
 }
 
 h1{
-    letter-spacing: 0.5em;
+    font-size: 80px;
+    font-weight: 500;
+    text-align: center;
+    letter-spacing: 0.05em;
+    padding-bottom: 30px;
+}
+
+h4{
+    font-size: 25px;
+}
+
+p{
+    font-weight: 200;
+    font-size: 22px;
 }
 
 .container{
     width:1920px;
     margin: 0 auto;
+}
+
+.personal_photo{
+    text-align: center;
+    padding: 30px;
+}
+
+.contact-info{
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    font-weight: 300;
+    text-transform: uppercase;
+    padding: 20px;
+    border-top: 1px solid #383838;
+    border-bottom: 1px solid #383838;
+}
+
+.contact-info-phonenumber a{
+    color: black;
+    text-decoration: none;
+}
+
+.social-media{
+    width: 30%;
+    float: left;
+    min-height: 250px;
+}
+.social-media h4{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.social-media-links{
+    padding-top: 10px;
+}
+.social-media-links a{
+    padding-left: 15px;
+    color: black;
+    text-decoration: none;
+}
+.about-me{
+    width: 70%;
+    float: left;
+    min-height: 250px;
+}
+.about-me h4{
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.skills{
+    width: 30%;
+    float: left;
+    min-height: 250px;
+}
+
+.skills h4{
+    padding-bottom: 10px;
+}
+.skills img{
+    margin-right: 20px;
+}
+
+.education{
+    width: 70%;
+    float: left;
+    min-height: 313px;
+}
+.education h4{
+    padding-bottom: 15px;
 }
