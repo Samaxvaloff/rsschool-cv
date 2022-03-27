@@ -1,0 +1,163 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family:'Oswald','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: 000;
+    font-size: 18px;
+    background-color: aliceblue;
+}
+
+h1,h2,h3,h4,h5,h6{
+    padding:0;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+ul, li{
+    padding: 0;
+    display: block;
+}
+
+h1{
+    font-size: 80px;
+    font-weight: 500;
+    text-align: center;
+    letter-spacing: 0.05em;
+    padding-bottom: 30px;
+}
+
+h4{
+    font-size: 25px;
+}
+
+p{
+    font-weight: 200;
+    font-size: 22px;
+}
+
+.container{
+    width:1920px;
+    margin: 0 auto;
+}
+
+.personal_photo{
+    text-align: center;
+    padding: 30px;
+}
+
+.contact-info{
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    font-weight: 300;
+    text-transform: uppercase;
+    padding: 20px;
+    border-top: 1px solid #383838;
+    border-bottom: 1px solid #383838;
+}
+
+.contact-info-phonenumber a{
+    color: black;
+    text-decoration: none;
+}
+
+.social-media{
+    width: 30%;
+    float: left;
+    min-height: 250px;
+}
+.social-media h4{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.social-media-links{
+    padding-top: 10px;
+}
+.social-media-links a{
+    padding-left: 15px;
+    color: black;
+    text-decoration: none;
+}
+.about-me{
+    width: 70%;
+    float: right;
+    min-height: 250px;
+}
+.about-me h4{
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.skills{
+    width: 30%;
+    float: left;
+    min-height: 250px;
+    padding-top: 10px;
+}
+
+.skills h4{
+    padding-bottom: 10px;
+}
+.skills img{
+    margin-right: 20px;
+}
+
+.my-code{
+    width: 70%;
+    float: right;
+    min-height: 687px;
+    padding-top: 10px;}
+.my-code h4{
+    padding-bottom: 15px;
+}
+.my-code code{
+    font-size: 18px;
+}
+.courses{
+    width:30%;
+    float: left;
+    min-height: 185px;
+    padding-top: 10px;
+}
+
+.courses-current-course{
+    padding-top: 10px;
+}
+.courses img{
+    margin-right: 20px;
+}
+
+.experience{
+    width:30%;
+    float: left;
+    padding-top: 10px;
+}
+.expreience-current-experience{
+    padding-top: 10px;
+}
+
+.experience img{
+    margin-right: 20px;
+}
+
+.language{
+    width:30%;
+    float: left;
+    padding-top: 10px;
+}
+.language-current-lang{
+    padding-top: 15px;
+}
+.language img{
+    margin-right: 20px;
+}
+
+.education{
+    width:70%;
+    float: right;
+    padding-top: 10px;
+}
+.education h4{
+    padding-bottom: 10px;
+}
