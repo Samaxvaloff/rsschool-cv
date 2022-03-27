@@ -66,51 +66,65 @@
                     <li class="social-media-links"><img src="img/figma.png">Figma</li>
                     <li class="social-media-links"><img src="img/database.png">MSSQL</li>
             </div>
-            <div class="education">
-                <h4>Education</h4>
-                <p>Traditional training will be completed in 2023, MPEI (IT specialist, bachelor)</p>
+            <div class="my-code">
+                <h4>My code in codewars on Javascript</h4>
+                <p><b>Task:</b> Detect panagram</p>
+                <p><b>My answer:</b></p>
+                <pre><code>function isPangram(string) {
+    let massOfWords = string.toLowerCase().split('');
+    console.log(massOfWords);
+    let controlMass = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k',
+     'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
+    for (let i = 0; i < massOfWords.length; i += 1) {
+        for (let j = 0; j < controlMass.length; j += 1) {
+            if (massOfWords[i] === controlMass[j]) {
+                console.log(`сравниваем ${massOfWords[i]} с ${controlMass[j]} 
+                и удаляем ${controlMass[j]}.`)
+                controlMass.splice(j, 1)
+                console.log(`остаётся ${controlMass}`)
+            }
+        }
+    }
+    let answer = controlMass.length === 0 ? true : false;
+    console.log(controlMass)
+    return answer
+}</code></pre>
             </div>
             <div class="courses">
                 <h4>Courses</h4>
                 <ul>
-                    <li>Rolling Scopes School(since 2022)</li>
-                    <li>Learn.javascript.ru (since 2021)</li>
-                    <li>Result school, junior frontend dev (since 2022 Feb)</li>
-                    <li>Stepik, HTML, CSS (2021)</li>
-                    <li>Full courses on Youtube about Frontend(RS School, Vladilen Minin, etc.)</li>
+                    <li class="courses-current-course"><img src="img/binary-code.png">Rolling Scopes School (JS
+                        / Front-end)</li>
+                    <li class="courses-current-course"><img src="img/js.png">Learn.javascript.ru</li>
+                    <li class="courses-current-course"><img src="img/school.png">Result school (Junior
+                        front-end dev)</li>
                 </ul>
             </div>
-
+            <div class="experience">
+                <h4>Experience</h4>
+                <ul>
+                    <li class="expreience-current-experience"><img src="img/programming.png">My personal page:
+                        maxsparx.ru </li>
+                    <li class="expreience-current-experience"><img src="img/handshake.png">Client website:
+                        alfa-sushi.ru, mycheeky.ru </li>
+                    <li class="expreience-current-experience"><img src="img/studying.png">University
+                        pet-projects</li>
+                </ul>
+            </div>
+            <div class="language">
+                <h4>Language</h4>
+                <ul>
+                    <li class="language-current-lang"><img src="img/united-kingdom.png">English (B1)</li>
+                    <li class="language-current-lang"><img src="img/france.png">French (A1)</li>
+                </ul>
+            </div>
+            <div class="education">
+                <h4>Education</h4>
+                <p>Traditional training will be completed in 2023, MPEI (IT specialist, bachelor)</p>
+            </div>
         </div>
     </div>
 
 </body>
 
 </html>
-## Courses
-
-- Learn.javascript.ru (since 2021)
-- Result school, junior frontend dev (since 2022 Feb)
-- Stepik, "Python для начинающих", 2021.
-- Stepik, HTML, CSS.
-- Full courses on Youtube about Frontend(RS School, Vladilen Minin, etc.)
-
-## My code from codewars on JS
-
-
-Task: "Detect panagram
-
-My answer:
-
-```
-function isPangram(string) {
-let massOfWords = string.toLowerCase().split('');
-console.log(massOfWords);
-let controlMass = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't',
-'u', 'v', 'w', 'x', 'y', 'z'];
-for (let i = 0; i < massOfWords.length; i +=1) { for (let j=0; j < controlMass.length; j +=1) { if
-    (massOfWords[i]===controlMass[j]) { console.log(`сравниваем ${massOfWords[i]} с ${controlMass[j]} и удаляем
-    ${controlMass[j]}.`) controlMass.splice(j, 1) console.log(`остаётся ${controlMass}`) } } } let
-    answer=controlMass.length===0 ? true : false; console.log(controlMass) return answer } ``` ## Experience - My
-    personal page: maxsparx.ru - Client website: alfa-sushi.ru, mycheeky.ru. - University pet-projects (private github)
-    ## English level B1 (Skills from School, duolingo and another courses)

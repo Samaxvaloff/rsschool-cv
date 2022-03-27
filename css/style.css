@@ -14,6 +14,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 ul, li{
+    padding: 0;
     display: block;
 }
 
@@ -80,7 +81,7 @@ p{
 }
 .about-me{
     width: 70%;
-    float: left;
+    float: right;
     min-height: 250px;
 }
 .about-me h4{
@@ -92,6 +93,7 @@ p{
     width: 30%;
     float: left;
     min-height: 250px;
+    padding-top: 10px;
 }
 
 .skills h4{
@@ -101,11 +103,61 @@ p{
     margin-right: 20px;
 }
 
-.education{
+.my-code{
     width: 70%;
+    float: right;
+    min-height: 687px;
+    padding-top: 10px;}
+.my-code h4{
+    padding-bottom: 15px;
+}
+.my-code code{
+    font-size: 18px;
+}
+.courses{
+    width:30%;
     float: left;
-    min-height: 313px;
+    min-height: 185px;
+    padding-top: 10px;
+}
+
+.courses-current-course{
+    padding-top: 10px;
+}
+.courses img{
+    margin-right: 20px;
+}
+
+.experience{
+    width:30%;
+    float: left;
+    padding-top: 10px;
+}
+.expreience-current-experience{
+    padding-top: 10px;
+}
+
+.experience img{
+    margin-right: 20px;
+}
+
+.language{
+    width:30%;
+    float: left;
+    padding-top: 10px;
+}
+.language-current-lang{
+    padding-top: 15px;
+}
+.language img{
+    margin-right: 20px;
+}
+
+.education{
+    width:70%;
+    float: right;
+    padding-top: 10px;
 }
 .education h4{
-    padding-bottom: 15px;
+    padding-bottom: 10px;
 }
